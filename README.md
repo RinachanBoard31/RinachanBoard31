@@ -1,4 +1,4 @@
-*I want to be a full-stack engineer like Rina-Chan...*
+### *I wanna be a full-stack engineer like Rina-Chan...*
 
 <!--
 **RinachanBoard31/RinachanBoard31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
