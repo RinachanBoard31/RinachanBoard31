@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinachanBoard31&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&theme=merko" />
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RinachanBoard31/RinachanBoard31/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RinachanBoard31/RinachanBoard31/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RinachanBoard31/RinachanBoard31/output/github-contribution-grid-snake.svg">
+</picture>
